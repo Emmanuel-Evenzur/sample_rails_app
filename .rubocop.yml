@@ -1,5 +1,5 @@
 #Style/StringLiterals:
-#  EnforcedStyle: double_quotes
+#  EnforcedStyle: double_quotes Ruby
 #Documentation:
 #  Enabled: false
 #Metrics/LineLength:
